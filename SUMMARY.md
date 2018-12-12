@@ -1,3 +1,5 @@
-# Table of content
+## 每日给力小游戏导量模块 ##
 
-* [First Chapter](chapter1.md)
+* [简介](README.md)
+* [CocosCreator版本](cocoscreator/README.md)
+

@@ -1,3 +1,1 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#微信小游戏内嵌游戏导量模块SDK使用说明
